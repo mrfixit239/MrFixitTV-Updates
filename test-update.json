@@ -1,10 +1,10 @@
 ﻿{
-  " latestVersionCode\: 3,
- \latestVersionName\: \1.0.2\,
- \buildNumber\: 103,
- \updateAvailable\: false,
- \releaseNotes\: \Build 103 - Isolated Update System Test\,
- \apkUrl\: null,
- \sha256Checksum\: null,
+  " latestVersionCode\: 4,
+ \latestVersionName\: \1.0.3\,
+ \buildNumber\: 104,
+ \updateAvailable\: true,
+ \releaseNotes\: \Build 104 - Controlled Automatic Update Test\,
+ \apkUrl\: \https://raw.githubusercontent.com/mrfixit239/MrFixitTV-Updates/test-branch/app-release-104.apk\,
+ \sha256Checksum\: \7FEEDBAB45C9B10D0AB61ED43657704371ED020F26C6AB45067123F87DEB3022\,
  \forceUpdate\: false
 }
