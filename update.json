@@ -1,8 +1,11 @@
 
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.0.1",
-  "buildNumber": 102,
-  "updateAvailable": false,
-  "releaseNotes": "Build 102 - Approved Live TV Backdrops"
+  "latestVersionCode": 7,
+  "latestVersionName": "1.0.6",
+  "buildNumber": 106,
+  "updateAvailable": true,
+  "releaseNotes": "MrFixitTV 1.0.6 - Automatic Update Test",
+  "apkUrl": "https://github.com/mrfixit239/MrFixitTV-Updates/releases/download/v1.0.6/MrFixitTV-1.0.6-Code7-UpdateTest.apk",
+  "sha256Checksum": "5D75B29E6109D6DEE1B79899E142B6DF9CA1CCDC5C874843EFBA0AC98734BAB7",
+  "forceUpdate": false
 }
