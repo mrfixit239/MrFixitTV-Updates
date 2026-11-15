@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "1.0.3",
-  "buildNumber": 104,
+  "forceUpdate": false,
+  "latestVersionName": "1.0.141",
   "updateAvailable": true,
-  "releaseNotes": "Build 104 - Controlled Automatic Update Test",
-  "apkUrl": "https://raw.githubusercontent.com/mrfixit239/MrFixitTV-Updates/test-branch/app-release-104.apk",
-  "sha256Checksum": "7FEEDBAB45C9B10D0AB61ED43657704371ED020F26C6AB45067123F87DEB3022",
-  "forceUpdate": false
+  "latestVersionCode": 142,
+  "buildNumber": 142,
+  "releaseNotes": "Adds Admin-controlled PIP View with layouts for up to four authorized streams. Restores the Live TV drawer and saved category when returning from PIP.",
+  "apkUrl": "https://github.com/mrfixit239/MrFixitTV-Updates/releases/download/v1.0.141/MrFixitTV-1.0.141.apk",
+  "sha256Checksum": "c40e56cbc2e2947d69197343ae7d0a12bc64f5b32f967b4c52e706bd4d98a4a4"
 }
