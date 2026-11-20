@@ -1,1 +1,10 @@
-{"forceUpdate":false,"releaseNotes":"Restores automatic trailer previews after three seconds of stable poster selection when no full-movie preview is active. Movies keep artwork when a trailer is unavailable.","sha256Checksum":"69a6071d6aefa6ee79547d31a200ee3d97b31fc6b585fb8f505f495388a066a7","latestVersionCode":143,"buildNumber":143,"updateAvailable":true,"latestVersionName":"1.0.142","apkUrl":"https://github.com/mrfixit239/MrFixitTV-Updates/releases/download/v1.0.142/MrFixitTV-1.0.142.apk"}
+{
+  "forceUpdate": false,
+  "releaseNotes": "Improves Live TV guide browsing and keeps the time header current. Improves broadcast discovery and channel access for Soccer, Pay-Per-View, Wrestling, Golf, and Tennis. Movie trailers load on poster focus and play as soon as the player is ready.",
+  "sha256Checksum": "cbcbeea468e4e734b2381ec93563ba3cb3a8b053f76ea72c34cd3d33dabdf09b",
+  "latestVersionCode": 190,
+  "buildNumber": 190,
+  "updateAvailable": true,
+  "latestVersionName": "1.0.189",
+  "apkUrl": "https://github.com/mrfixit239/MrFixitTV-Updates/releases/download/v1.0.189/MrFixitTV-1.0.189.apk"
+}
